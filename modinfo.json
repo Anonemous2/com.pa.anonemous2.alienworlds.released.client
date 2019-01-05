@@ -1,0 +1,37 @@
+{
+    "author": "Anonemous2",
+    "build": "109959",
+    "context": "client",
+    "date": "2018-12-24",
+    "display_name": "AlienWorlds Client",
+    "description": "Adds in addition biomes, that can be used when creating systems. Required to join games with modded planets loaded.",
+    "forum": "https://forums.uberent.com/threads/wip-biomes-mod-alienworlds.73119/",
+    "identifier": "com.pa.anonemous2.alienworlds.released.client",
+    "signature": "not yet implemented",
+    "version": "0.2.1",
+    "icon": "https://forums.planetaryannihilation.com/data/attachments/28/28114-baac9cdf41167be6585aeb6d1b66181f.jpg",
+    "scenes": {
+        "system_editor": [
+            "coui://ui/mods/com.pa.anonemous2.alienworlds.released.client/new_game.js"
+        ]
+    },
+    "searchable": [
+        "alienworlds",
+        "client",
+        "released",
+        "biomes",
+        "anonemous2"
+    ],
+    "url": "https://www.dropbox.com/s/jdi8f2uqpyjelb1/com.pa.anonemous2.alienworlds.released.client.zip?dl=1",
+    "download": "https://cdn.palobby.com/community-mods/downloads/com.pa.anonemous2.alienworlds.released.client.zip",
+    "unitList": false,
+    "fileSystem": false,
+    "sort": "alienworlds client",
+    "authors": [
+        "Anonemous2"
+    ],
+    "priority": 100,
+    "timestamp": 1543363300000,
+    "dependencies": [],
+    "companions": []
+}
