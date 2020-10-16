@@ -5,4 +5,5 @@ model.biomes.push('superJovian'),
 model.biomes.push('superJovianTerrain'),
 model.biomes.push('sun'),
 model.biomes.push('sunTerrain'),
-model.biomes.push('arid_world')
+model.biomes.push('arid_world'),
+model.biomes.push('halloween_theme')
